@@ -1,13 +1,12 @@
-# Faces recognition using eigenfaces and SVMs:
+# Faces recognition using eigenfaces and SVMs
 
 This is an example code of how to use PCA and SVM for face recognition. 
-
-"The dataset used in this example is a preprocessed excerpt of the “Labeled Faces in the Wild”, aka LFW:
-http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz "
+The dataset used in this example is a preprocessed excerpt of the “Labeled Faces in the Wild”, aka LFW:
+http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz 
 
 ## Getting Started
 
-git clone https://github.com/MLMarins/
+git clone https://github.com/MLMarins/face-recognition_mini-project.git
 
 
 ### Prerequisites
